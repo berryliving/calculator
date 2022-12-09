@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Group4 Calculator</string>
+
+    <string name="Calculate">Calculate Area</string>
+    <string name="enter_radius">Enter radius value</string>
+    <string name="group_4_ism">Group 4 ISM</string>
+</resources>
